@@ -5,15 +5,15 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2023-08-06T18:26:13.313Z",
-    "end": "2023-08-06T18:26:13.671Z",
-    "duration": 358
+    "start": "2023-09-24T16:13:02.368Z",
+    "end": "2023-09-24T16:13:02.620Z",
+    "duration": 252
   },
   "tests": [
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },

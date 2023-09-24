@@ -11,6 +11,7 @@ function destructivelyRemoveLastCat(){
 }
 function destructivelyRemoveFirstCat(){
   cats.shift()
+  // happy coding this one
 }
 function  appendCat(name){
   let newCat = [...cats, name]
