@@ -30,3 +30,4 @@ function removeFirstCat(){
   let newCat = cats.slice(1)
   return newCat
 }
+// Completed repeated lab from phase 0
